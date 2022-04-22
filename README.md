@@ -1,3 +1,6 @@
+### Proposal
+https://docs.google.com/document/d/1CBiTAP4V2KXTE6TuHRG1xQ2GwcwuxIoBKxE45KksRF8/edit?usp=sharing
+
 # HDR+ PyTorch
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martin-marek/hdr-plus-pytorch/blob/main/demo.ipynb)
